@@ -37,24 +37,15 @@
 
 ### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+`Python` | `SQL`
 
 ### 📚 Libraries & Frameworks
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+`PyTorch` | `TensorFlow` | `Scikit-learn` | `Pandas` | `NumPy` | `Matplotlib`
 
 ### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge\&logo=latex)
+`Git` | `GitHub` | `VS Code` | `Google Colab` | `LaTeX`
 
 ---
 
@@ -73,7 +64,6 @@ Built models to identify accident-prone areas using analytics and ML techniques.
 * ✂️ Pruning
 * 🔢 Quantization
 * 📦 Coreset Selection
-  Focused on improving efficiency while maintaining performance.
 
 ### 🔹 Deep Learning Models (MLP Experiments)
 
@@ -85,23 +75,9 @@ Building a smart system to help restaurant owners manage and scale operations.
 
 ---
 
-## 📊 GitHub Stats
-
-![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijan01235\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan01235\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Srijan01235\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 📊 Current Focus
 
-```text
+```text id="f9l2ks"
 Optimizing ML Models → Scaling Systems → Solving Real Problems
 ```
 
