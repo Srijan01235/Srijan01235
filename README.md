@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-* 🎓 2nd Year @ IIT Madras (BS in Data Science & AI)
+* 🎓 2nd Year @ IIT Madras Zanzibar (Bachelor's in Data Science & AI)
 * 📊 Passionate about **Machine Learning, Deep Learning & Data-driven systems**
 * ⚡ Currently exploring:
 
