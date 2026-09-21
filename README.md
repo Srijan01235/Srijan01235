@@ -82,12 +82,12 @@ Enter a YouTube video ID and the app fetches the video's transcript (when availa
 A single-intersection simulation comparing fixed-time signals with dynamic, queue-based algorithms. Uses priority queues with aging to prevent starvation, supports emergency vehicle override, and measures delay, queue length, and fairness.
 **Stack:** `Python` `Data Structures & Algorithms`
 
-### 🔹 Traffic Flow Prediction using MLP *(Group Project, Ongoing)*
+### 🔹 Traffic Flow Prediction using MLP *(Group Project)*
 
 A machine learning pipeline that predicts traffic flow and congestion from historical data, with feature engineering, hyperparameter tuning, and cross-validated comparison of regression and classification models, including an MLP trained with SGD.
 **Stack:** `Python` `Scikit-learn` `Pandas`
 
-### 🔹 Medical Diagnostic Retrieval System *(Group Project, Ongoing)*
+### 🔹 Medical Diagnostic Retrieval System *(Group Project)*
 
 A database-driven system to store and retrieve medical diagnostic records, built on a normalized relational schema with ER modeling and efficient SQL queries.
 **Stack:** `SQL` `Python` `DBMS`
