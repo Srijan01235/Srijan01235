@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Srijan01235)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srijanreddysankepally)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail)](mailto:zda24b007@iitmz.ac.in)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail)](mailto:srijanreddysankepally@gmail.com)
 
 ---
 
